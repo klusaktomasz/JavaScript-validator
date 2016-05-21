@@ -51,7 +51,7 @@ form.validate({
 
 ### The validation rules
 
-The basic validation rule is chcek all inputs in form, whether they are empty. If you want to add custom rules, you can use `rules: {}` The key of the object is `id/name` attribute of the input. The value is an object with [methods](#methods).
+The basic validation rule is check all inputs in form, whether they are empty. If you want to add custom rules, you can use `rules: {}` The key of the object is `id/name` attribute of the input. The value is an object with [methods](#methods).
 
 ```js
 var form = document.getElementById('form');
